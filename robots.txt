@@ -1,0 +1,44 @@
+# Robots.txt for Batu Outbound Pro
+# https://batuoutboundpro.com
+
+User-agent: *
+Allow: /
+Disallow: /assets/icons/
+
+# Sitemaps
+Sitemap: https://batuoutboundpro.com/sitemap.xml
+
+# Crawl-delay (optional, for politeness)
+Crawl-delay: 1
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+Disallow: /assets/icons/
+
+# Bing specific
+User-agent: Bingbot
+Allow: /
+Disallow: /assets/icons/
+
+# AI crawlers - allow for AEO/GEO
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://batuoutboundpro.com/</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://batuoutboundpro.com/assets/images/og-image.jpg</image:loc>
+      <image:title>Batu Outbound Pro - Paket Outbound Lengkap + Penginapan Batu Malang</image:title>
+      <image:caption>Provider outbound terbaik di Batu Malang dengan paket lengkap outbound dan penginapan premium</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://batuoutboundpro.com/about.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://batuoutboundpro.com/assets/images/og-about.jpg</image:loc>
+      <image:title>Tentang Batu Outbound Pro - Provider Outbound Terpercaya</image:title>
+      <image:caption>Tim profesional Batu Outbound Pro yang berpengalaman di industri outbound</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Blog Page -->
+  <url>
+    <loc>https://batuoutboundpro.com/blog.html</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://batuoutboundpro.com/assets/images/og-blog.jpg</image:loc>
+      <image:title>Blog Batu Outbound Pro - Tips Outbound dan Wisata Batu Malang</image:title>
+      <image:caption>Artikel terbaru seputar outbound, team building, dan wisata Batu Malang</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
